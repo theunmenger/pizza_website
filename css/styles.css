@@ -10,6 +10,8 @@ body {
     top: 10%;
 }
 #pizza_saus {
-    display: block;
-    margin: auto;
+    position:absolute;
+    width: 40%;
+    left: 30%;
+    top: 7%;
 }
