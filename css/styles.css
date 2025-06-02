@@ -9,3 +9,7 @@ body {
     left: 20%;
     top: 10%;
 }
+#pizza_saus {
+    display: block;
+    margin: auto;
+}
